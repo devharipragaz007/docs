@@ -19,8 +19,8 @@ Mattermost product documentation
    Deploy Mattermost <guides/deployment>
    Manage Mattermost <guides/administration>
    Use Mattermost <guides/use-mattermost>
-   <a href="https://developers.mattermost.com/" target="_blank">Develop with Mattermost </a>
+   <a href="https://developers.mattermost.com/" target="_blank">Develop with Mattermost</a>
    Get help with Mattermost <guides/get-help>
    Join our community <guides/community-chat>
-   Learn how we work <https://handbook.mattermost.com/>
+   <a href="https://handbook.mattermost.com/" target="_blank">Learn how we work</a>
    Contribute to this documentation <guides/contribute-to-documentation>
